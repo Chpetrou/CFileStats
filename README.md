@@ -15,7 +15,7 @@ A small utility that analyses and shows you the statistics of a C source code fi
 * show in the terminal
 * save in a file
 
-# Usage
+## Usage
 ```
 usage: CFileStats [options] <source_file_path>
     Prints the statistics of a C source code file.
